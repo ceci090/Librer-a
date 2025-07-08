@@ -49,6 +49,9 @@ export default function BuscarLibroPorId() {
 
   return (
     <div>
+      
+
+      
       <h2>Buscar libro por ID</h2>
       <div className="form-control">
         <input
