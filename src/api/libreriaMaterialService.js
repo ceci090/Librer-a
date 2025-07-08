@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://www.autorceci.somee.com/api/LibreriaMaterial";
+const API_URL = "https://www.autorceci.somee.com/api/LibreriaMaterial";
 
 // Obtener todos los libros
 export async function getLibros() {
